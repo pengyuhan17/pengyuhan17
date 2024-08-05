@@ -1,5 +1,10 @@
-**我叫PengYuhan。2010年出生, 定居在中国, 浙江宁波。目前在读初中。目前在学习Python和前端。**
+# 氦😀!
 
-**My name is Peng Yuhan. Born in 2010, he lives in Ningbo, Zhejiang, China. She is currently in junior high school. Currently learning Python and front-end. **
+**这里是pengyuhan17!**
 
-给我点Star, 谢谢:)
+定居在中国宁波。在读初中。喜欢玩Minecraft, 正在学习Python, HTML, CSS, JS等。
+
+> [!NOTE]
+> 给个Star谢谢...
+
+<a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api?username=pengyuhan17&show_icons=true&icon_color=66ccff&title_color=66ccff&include_all_commits_disable=false&custom_title=Github%20Stats&count_private=true&layout=compact"></a>
